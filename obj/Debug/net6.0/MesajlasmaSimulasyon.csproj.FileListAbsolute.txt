@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\KodlamaC#\MesajlasmaSimulasyon\bin\Debug\net6.0\MesajlasmaSimulasyon.exe
+C:\Users\user\Desktop\KodlamaC#\MesajlasmaSimulasyon\bin\Debug\net6.0\MesajlasmaSimulasyon.deps.json
+C:\Users\user\Desktop\KodlamaC#\MesajlasmaSimulasyon\bin\Debug\net6.0\MesajlasmaSimulasyon.runtimeconfig.json
+C:\Users\user\Desktop\KodlamaC#\MesajlasmaSimulasyon\bin\Debug\net6.0\MesajlasmaSimulasyon.dll
+C:\Users\user\Desktop\KodlamaC#\MesajlasmaSimulasyon\bin\Debug\net6.0\MesajlasmaSimulasyon.pdb
+C:\Users\user\Desktop\KodlamaC#\MesajlasmaSimulasyon\obj\Debug\net6.0\MesajlasmaSimulasyon.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\KodlamaC#\MesajlasmaSimulasyon\obj\Debug\net6.0\MesajlasmaSimulasyon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\KodlamaC#\MesajlasmaSimulasyon\obj\Debug\net6.0\MesajlasmaSimulasyon.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\KodlamaC#\MesajlasmaSimulasyon\obj\Debug\net6.0\MesajlasmaSimulasyon.AssemblyInfo.cs
+C:\Users\user\Desktop\KodlamaC#\MesajlasmaSimulasyon\obj\Debug\net6.0\MesajlasmaSimulasyon.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\KodlamaC#\MesajlasmaSimulasyon\obj\Debug\net6.0\MesajlasmaSimulasyon.dll
+C:\Users\user\Desktop\KodlamaC#\MesajlasmaSimulasyon\obj\Debug\net6.0\refint\MesajlasmaSimulasyon.dll
+C:\Users\user\Desktop\KodlamaC#\MesajlasmaSimulasyon\obj\Debug\net6.0\MesajlasmaSimulasyon.pdb
+C:\Users\user\Desktop\KodlamaC#\MesajlasmaSimulasyon\obj\Debug\net6.0\MesajlasmaSimulasyon.genruntimeconfig.cache
+C:\Users\user\Desktop\KodlamaC#\MesajlasmaSimulasyon\obj\Debug\net6.0\ref\MesajlasmaSimulasyon.dll

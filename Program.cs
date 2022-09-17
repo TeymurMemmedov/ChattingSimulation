@@ -18,8 +18,9 @@ while(yekunNumber<5)
 {
     List<Users> Dostlar =new List<Users>();
     List<Users> CurrentUserList=new List<Users>();
-
+    Console.WriteLine("Chattinge xos geldiniz!\nUserler:\n-Teymur\n-Tural\n-Ceyhun");
     Console.Write("Sistemde hansi userdir?:");
+    
     string CurrentUserName=Console.ReadLine();
     Users CurrentUser;
     

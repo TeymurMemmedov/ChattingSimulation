@@ -123,28 +123,3 @@ while(yekunNumber<5)
 
 
 
-// // user 1 send message to user 2
-// user1.SendMessage("Salam, bu gün axsamki konserte geleceksen?",user2);
-// Console.WriteLine("--------------------------------------------");
-// // ser2 check te inbox and see message
-// Users.ShowInbox(user2);
-// Console.WriteLine("--------------------------------------------");
-// // user 2 send answer message
-// user2.SendMessage("Xeyr bu gun ozumu yaxsi hiss etmirem", user1);
-// Console.WriteLine("---------------------------------------------");
-// // user 1 check inbox see answer
-// Users.ShowInbox(user1);
-// Console.WriteLine("---------------------------------------------");
-// // user 1 send message to user 2
-// user1.SendMessage("Yaxsi, onda gelen defe gederik, ozune yaxsi bax",user2);
-// Console.WriteLine("---------------------------------------------");
-// // user 2 check inbox
-// Users.ShowInbox(user2);
-// Console.WriteLine("---------------------------------------------");
-
-// // user3 check the inbox but nobody messaged to him
-// Users.ShowInbox(user3);
-// Console.WriteLine("----------------------------------------------");
-
-
-
